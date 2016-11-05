@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+
+body {
+	background-color:#232323;
+	color:white;
+}
+.container {
+	width: 992px;
+	margin: auto;
+}
+
+.square {
+	margin:1%;
+	height:300px;
+	width:300px;
+	background: red;
+	border-radius:15px;
+}
+
+
+#stripe {
+	background: white;
+	height: 50px;
+	text-align: center;
+}
+
+#resetButton {
+	background: black;
+    border-radius: 7px;
+    margin-top: 7px;
+}
